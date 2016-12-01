@@ -1,0 +1,19 @@
+{
+  "id": .Id,
+  "title": .Title,
+  "image": .ImageId,
+  "description": .PreambleHTML,
+  "rating": .AverageRating,
+  "difficulty": .Difficulty,
+  "time": .CookingTime,
+  "portions": .IngredientGroups[0].Portions,
+  "paragraphs": [.IngredientGroups[] | {
+    "name": .GroupName,
+    "ingredients": [.Ingredients[] | {
+      "ingredient": .Ingredient,
+      "quantity": .Quantity,
+      "unit": .Unit,
+      "text": .Text
+    }]
+  }]
+}
