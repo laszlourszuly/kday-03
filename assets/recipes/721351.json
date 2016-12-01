@@ -1,0 +1,111 @@
+{
+  "id": 721351,
+  "title": "Spicy garlic ramen",
+  "image": "spicy-garlic-ramen-721351.jpg",
+  "description": "En underbart smakrik japansk ramennudelsoppa som är en explosion i smaker och dofter. Basen är en mustig kycklingbuljong som serveras med tunt skivad kycklingfilé, krispig salladslök, örtig koriander och ett krämigt ägg. Den rostade vitlökspastan ger soppan en härligt mustig smak.",
+  "rating": "2.8",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Soppa",
+      "ingredients": [
+        {
+          "ingredient": "förp kycklingbuljong (à 520 g)",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 förp kycklingbuljong (à 520 g)"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 6,
+          "unit": "dl",
+          "text": "6 dl vatten"
+        },
+        {
+          "ingredient": "strimlad kycklingfiléer",
+          "quantity": 600,
+          "unit": "g",
+          "text": "ca 600 g strimlad kycklingfiléer"
+        },
+        {
+          "ingredient": "port nudlar",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port nudlar"
+        },
+        {
+          "ingredient": "påse salladslök (à 125 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 påse salladslök (à 125 g)"
+        },
+        {
+          "ingredient": "kruka koriander",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 kruka koriander"
+        },
+        {
+          "ingredient": "ask böngroddar (à 180 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 ask böngroddar (à 180 g)"
+        }
+      ]
+    },
+    {
+      "name": "Ägg",
+      "ingredients": [
+        {
+          "ingredient": "ägg",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 ägg"
+        }
+      ]
+    },
+    {
+      "name": "Vitlökspasta",
+      "ingredients": [
+        {
+          "ingredient": "vitlöksklyftor",
+          "quantity": 6,
+          "unit": null,
+          "text": "6 vitlöksklyftor"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl olja"
+        },
+        {
+          "ingredient": "röd chili",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 röd chili"
+        },
+        {
+          "ingredient": "vitvinsvinäger",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk vitvinsvinäger"
+        },
+        {
+          "ingredient": "sesamfrön",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl sesamfrön"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 721347,
+  "title": "Kycklinglasagne",
+  "image": "kycklinglasagne-721347.jpg",
+  "description": "En underbart smarrig lasagne som kommer att sprida väldoft i hela köket och mätta alla hungriga gäster. Den smakrika kycklingfärsen, den vitlöksdoftande tomatsåsen, lasagneplattorna och den rivna osten får puttra i ugnen tills smakerna har gift sig och lasagnen fått en gyllene yta. Låt den svalna något innan servering och garnera sedan med den härliga grönsalladen.",
+  "rating": "4.3",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "kycklingfärs",
+          "quantity": 500,
+          "unit": "g",
+          "text": "ca 500 g kycklingfärs"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olja"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0.5,
+          "unit": "tsk",
+          "text": "1/2 tsk salt"
+        },
+        {
+          "ingredient": "peppar",
+          "quantity": 1,
+          "unit": "krm",
+          "text": "1 krm peppar"
+        },
+        {
+          "ingredient": "matlagningsgrädde",
+          "quantity": 5,
+          "unit": "dl",
+          "text": "5 dl matlagningsgrädde"
+        },
+        {
+          "ingredient": "majsstärkelse",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk majsstärkelse"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olja"
+        },
+        {
+          "ingredient": "lasagneplattor",
+          "quantity": 12,
+          "unit": null,
+          "text": "12 lasagneplattor"
+        },
+        {
+          "ingredient": "pastasås (gärna tomat och vitlök)",
+          "quantity": 690,
+          "unit": "g",
+          "text": "690 g pastasås (gärna tomat och vitlök)"
+        },
+        {
+          "ingredient": "riven ostar",
+          "quantity": 1.5,
+          "unit": "dl",
+          "text": "1 1/2 dl riven ostar"
+        },
+        {
+          "ingredient": "kruka krispsallad",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 kruka krispsallad"
+        },
+        {
+          "ingredient": "förp gröna ärter (à 250 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 förp gröna ärter (à 250 g)"
+        }
+      ]
+    }
+  ]
+}

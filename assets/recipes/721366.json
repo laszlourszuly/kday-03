@@ -1,0 +1,128 @@
+{
+  "id": 721366,
+  "title": "Kryddstekt lax med avokadosalsa",
+  "image": "kryddstekt_lax-med-avokadosalsa-721366.jpg",
+  "description": "En otroligt smakrik och lättlagad rätt som flirtar med det mexikanska köket. Spiskummin, chilipulver och paprikapulver ger laxen en otroligt god arom och balanseras upp av den fräscha salsan.",
+  "rating": "4.6",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Lax",
+      "ingredients": [
+        {
+          "ingredient": "spiskummin",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk spiskummin"
+        },
+        {
+          "ingredient": "chilipulver",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk chilipulver"
+        },
+        {
+          "ingredient": "paprikapulver",
+          "quantity": 1,
+          "unit": "tsk",
+          "text": "1 tsk paprikapulver"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0.5,
+          "unit": "tsk",
+          "text": "1/2 tsk salt"
+        },
+        {
+          "ingredient": "svartpeppar",
+          "quantity": 1,
+          "unit": "krm",
+          "text": "1 krm svartpeppar"
+        },
+        {
+          "ingredient": "port laxfiléer (à 140 g)",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port laxfiléer (à 140 g)"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 0,
+          "unit": "tsk",
+          "text": "tsk olja"
+        }
+      ]
+    },
+    {
+      "name": "Ris",
+      "ingredients": [
+        {
+          "ingredient": "port ris",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port ris"
+        }
+      ]
+    },
+    {
+      "name": "Salsa",
+      "ingredients": [
+        {
+          "ingredient": "avokador",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 avokador"
+        },
+        {
+          "ingredient": "färskpressad citronsaft",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk färskpressad citronsaft"
+        },
+        {
+          "ingredient": "olivolja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olivolja"
+        },
+        {
+          "ingredient": "majskorn",
+          "quantity": 150,
+          "unit": "g",
+          "text": "150 g majskorn"
+        },
+        {
+          "ingredient": "kruka koriander",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 kruka koriander"
+        }
+      ]
+    },
+    {
+      "name": "Tillbehör",
+      "ingredients": [
+        {
+          "ingredient": "rödlök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 rödlök"
+        },
+        {
+          "ingredient": "cosmopolitansallad",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 cosmopolitansallad"
+        },
+        {
+          "ingredient": "gräddfil",
+          "quantity": 1.5,
+          "unit": "dl",
+          "text": "1 1/2 dl gräddfil"
+        }
+      ]
+    }
+  ]
+}

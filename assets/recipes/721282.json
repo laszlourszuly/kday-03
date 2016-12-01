@@ -1,0 +1,94 @@
+{
+  "id": 721282,
+  "title": "Broccolisoppa med fänkål",
+  "image": "broccolisoppa-med-fankal-721282.jpg",
+  "description": "Den här broccolisoppan är något alldeles extra. Boostad med små vita bönor, eller cannellini som de heter på italienska, färskost och fänkålsfrön. Medan buketterna på broccolin mixas ner i soppan blir stammen till en citrondressad knaprig topping.",
+  "rating": "3.8",
+  "difficulty": "Medel",
+  "time": "Under 30 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "broccoli",
+          "quantity": 500,
+          "unit": "g",
+          "text": "500 g broccoli"
+        },
+        {
+          "ingredient": "finhackad gul lök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 finhackad gul lök"
+        },
+        {
+          "ingredient": "olivolja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olivolja"
+        },
+        {
+          "ingredient": "mortlade fänkålsfrön",
+          "quantity": 1,
+          "unit": "tsk",
+          "text": "1 tsk mortlade fänkålsfrön"
+        },
+        {
+          "ingredient": "konc grönsaksfond",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk konc grönsaksfond"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 8,
+          "unit": "dl",
+          "text": "8 dl vatten"
+        },
+        {
+          "ingredient": "förp avrunna cannellinibönor (à 400 g)",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 förp avrunna cannellinibönor (à 400 g)"
+        },
+        {
+          "ingredient": "färskost av philadelphiatyp",
+          "quantity": 150,
+          "unit": "g",
+          "text": "150 g färskost av philadelphiatyp"
+        },
+        {
+          "ingredient": "salt och peppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt och peppar"
+        },
+        {
+          "ingredient": "färskpressad citronjuice",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk färskpressad citronjuice"
+        },
+        {
+          "ingredient": "olivolja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olivolja"
+        }
+      ]
+    },
+    {
+      "name": "Topping",
+      "ingredients": [
+        {
+          "ingredient": "krutonger",
+          "quantity": 0,
+          "unit": null,
+          "text": "ev krutonger"
+        }
+      ]
+    }
+  ]
+}

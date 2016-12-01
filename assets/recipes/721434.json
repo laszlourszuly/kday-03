@@ -1,0 +1,140 @@
+{
+  "id": 721434,
+  "title": "Järpar med gräddig lökragu",
+  "image": "jarpar-med-graddig-lokragu-721434.jpg",
+  "description": "En underbart värmande vintermiddag i form av smakrika järpar och en gräddig lökragu med fyllig smak. Detta är en rätt som både är enkel att laga och väldigt delikat. Servera allt med nykokt potatis, en grön krispig sallad och något gott att dricka.",
+  "rating": null,
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "fast potatisar",
+          "quantity": 900,
+          "unit": "g",
+          "text": "900 g fast potatisar"
+        }
+      ]
+    },
+    {
+      "name": "Järpar",
+      "ingredients": [
+        {
+          "ingredient": "ströbröd",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl ströbröd"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl vatten"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 ägg"
+        },
+        {
+          "ingredient": "blandfärs",
+          "quantity": 500,
+          "unit": "g",
+          "text": "ca 500 g blandfärs"
+        },
+        {
+          "ingredient": "dijonsenap",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk dijonsenap"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0.5,
+          "unit": "tsk",
+          "text": "1/2 tsk salt"
+        },
+        {
+          "ingredient": "peppar",
+          "quantity": 1,
+          "unit": "krm",
+          "text": "1 krm peppar"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olja"
+        }
+      ]
+    },
+    {
+      "name": "Lökragu",
+      "ingredients": [
+        {
+          "ingredient": "rödlök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 rödlök"
+        },
+        {
+          "ingredient": "silverlök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 silverlök"
+        },
+        {
+          "ingredient": "smör",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk smör"
+        },
+        {
+          "ingredient": "socker",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk socker"
+        },
+        {
+          "ingredient": "vispgrädde",
+          "quantity": 2,
+          "unit": "dl",
+          "text": "2 dl vispgrädde"
+        },
+        {
+          "ingredient": "mjölk",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl mjölk"
+        },
+        {
+          "ingredient": "majsstärkelse",
+          "quantity": 0.5,
+          "unit": "msk",
+          "text": "1/2 msk majsstärkelse"
+        },
+        {
+          "ingredient": "påse salladslök (à 125 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 påse salladslök (à 125 g)"
+        }
+      ]
+    },
+    {
+      "name": "Till servering",
+      "ingredients": [
+        {
+          "ingredient": "kruka krispsallad",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 kruka krispsallad"
+        }
+      ]
+    }
+  ]
+}

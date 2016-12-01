@@ -1,0 +1,135 @@
+{
+  "id": 721354,
+  "title": "Okonomiyaki Osaka-style",
+  "image": "okonomiyaki-osaka-style-721354.jpg",
+  "description": "Denna supergoda rätt med dess lite svåruttalade namn är en väldigt populär streetfoodrätt i Japan. Grunden består alltid av kål och ägg men okonomiyakin kan därefter varieras i det oändliga. Just denna Osaka-inspirerade variant innehåller även rökig bacon, salladslök, picklad ingefära och mild gräslök.",
+  "rating": "3.7",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Sås",
+      "ingredients": [
+        {
+          "ingredient": "riven färsk ingefära",
+          "quantity": 1.5,
+          "unit": "tsk",
+          "text": "1 1/2 tsk riven färsk ingefära"
+        },
+        {
+          "ingredient": "worcestershiresås",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl worcestershiresås"
+        },
+        {
+          "ingredient": "japansk soja",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl japansk soja"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl vatten"
+        },
+        {
+          "ingredient": "vitvinsvinäger",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk vitvinsvinäger"
+        },
+        {
+          "ingredient": "strösocker",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk strösocker"
+        },
+        {
+          "ingredient": "majsstärkelse",
+          "quantity": 1,
+          "unit": "tsk",
+          "text": "1 tsk majsstärkelse"
+        }
+      ]
+    },
+    {
+      "name": "Kålpanna",
+      "ingredients": [
+        {
+          "ingredient": "vitkål",
+          "quantity": 500,
+          "unit": "g",
+          "text": "500 g vitkål"
+        },
+        {
+          "ingredient": "påse salladslök (à 125 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 påse salladslök (à 125 g)"
+        },
+        {
+          "ingredient": "hackad picklad ingefära",
+          "quantity": 2.5,
+          "unit": "msk",
+          "text": "2 1/2 msk hackad picklad ingefära"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk salt"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 2.5,
+          "unit": "dl",
+          "text": "2 1/2 dl vatten"
+        },
+        {
+          "ingredient": "vetemjöl (240 g)",
+          "quantity": 4,
+          "unit": "dl",
+          "text": "4 dl vetemjöl (240 g)"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 ägg"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 3,
+          "unit": "msk",
+          "text": "3 msk olja"
+        },
+        {
+          "ingredient": "förp bacon (à 140 g)",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 förp bacon (à 140 g)"
+        }
+      ]
+    },
+    {
+      "name": "Till servering",
+      "ingredients": [
+        {
+          "ingredient": "färsk gräslök",
+          "quantity": 20,
+          "unit": "g",
+          "text": "20 g färsk gräslök"
+        },
+        {
+          "ingredient": "majonnäs",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl majonnäs"
+        }
+      ]
+    }
+  ]
+}

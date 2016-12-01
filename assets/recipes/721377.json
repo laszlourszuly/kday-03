@@ -1,0 +1,105 @@
+{
+  "id": 721377,
+  "title": "Ost- och skinkpaj med aprikoser",
+  "image": "ost-och-skinkpaj-med-aprikoser-721377.jpg",
+  "description": "En riktigt smarrig ost- och skinkpaj där sältan från osten gifter sig väl med sötman från de färska aprikoserna. Supergod som lunch eller middag tillsammans med en fräsch grönsallad.",
+  "rating": null,
+  "difficulty": "Medel",
+  "time": "Över 60 minuter",
+  "portions": 6,
+  "paragraphs": [
+    {
+      "name": "Pajdeg",
+      "ingredients": [
+        {
+          "ingredient": "vetemjöl",
+          "quantity": 3,
+          "unit": "dl",
+          "text": "3 dl vetemjöl"
+        },
+        {
+          "ingredient": "smör",
+          "quantity": 150,
+          "unit": "g",
+          "text": "150 g smör"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 ägg"
+        }
+      ]
+    },
+    {
+      "name": "Fyllning",
+      "ingredients": [
+        {
+          "ingredient": "racletteost",
+          "quantity": 150,
+          "unit": "g",
+          "text": "150 g racletteost"
+        },
+        {
+          "ingredient": "färska aprikoser",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 färska aprikoser"
+        },
+        {
+          "ingredient": "gul lök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 gul lök"
+        },
+        {
+          "ingredient": "olivolja",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk olivolja"
+        },
+        {
+          "ingredient": "skivor skinka",
+          "quantity": 6,
+          "unit": null,
+          "text": "6 skivor skinka"
+        },
+        {
+          "ingredient": "grädde",
+          "quantity": 3,
+          "unit": "dl",
+          "text": "3 dl grädde"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 3,
+          "unit": null,
+          "text": "3 ägg"
+        },
+        {
+          "ingredient": "salt och peppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt och peppar"
+        },
+        {
+          "ingredient": "rostad lök",
+          "quantity": 0,
+          "unit": null,
+          "text": "rostad lök"
+        }
+      ]
+    },
+    {
+      "name": "Till servering",
+      "ingredients": [
+        {
+          "ingredient": "sallad",
+          "quantity": 0,
+          "unit": null,
+          "text": "sallad"
+        }
+      ]
+    }
+  ]
+}

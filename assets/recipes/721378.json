@@ -1,0 +1,70 @@
+{
+  "id": 721378,
+  "title": "Zucchiniplättar med riven birger jarl",
+  "image": "vegoplattar-med-riven-birgerjarl-721378.jpg",
+  "description": "Goda gröna plättar där basen består av riven zucchini och den goda smaken kommer från en smakrik, extralagrad ost. Enkelt att tillaga och goda som de är eller tillsammans med din favoritsalami eller skinka.",
+  "rating": null,
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "zucchinis",
+          "quantity": 500,
+          "unit": "g",
+          "text": "500 g zucchinis"
+        },
+        {
+          "ingredient": "salt och peppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt och peppar"
+        },
+        {
+          "ingredient": "gräddfil",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl gräddfil"
+        },
+        {
+          "ingredient": "extra lagrad grevéost (gärna Birger Jarl extra stark)",
+          "quantity": 2,
+          "unit": "dl",
+          "text": "2 dl extra lagrad grevéost (gärna Birger Jarl extra stark)"
+        },
+        {
+          "ingredient": "vetemjöl",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl vetemjöl"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 ägg"
+        },
+        {
+          "ingredient": "smör (till stekning)",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör (till stekning)"
+        }
+      ]
+    },
+    {
+      "name": "Till servering",
+      "ingredients": [
+        {
+          "ingredient": "skinka eller salami",
+          "quantity": 0,
+          "unit": null,
+          "text": "skinka eller salami"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "id": 721435,
+  "title": "Nudlar med krispiga grönsaker och cashewnötter",
+  "image": "nudlar-med-krispiga-gronsaker-och-cashewnotter-721.jpg",
+  "description": "Asiatiskt står på menyn ikväll! Denna rätt blir lätt en vego favorit: söta ugnsrostade grönsakerna får sällskap av en syrlig och fräsch limedressing med karaktär av ingefära.",
+  "rating": "3.5",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Grönsaker",
+      "ingredients": [
+        {
+          "ingredient": "grön paprika",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 grön paprika"
+        },
+        {
+          "ingredient": "påse salladslök (à 125 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 påse salladslök (à 125 g)"
+        },
+        {
+          "ingredient": "rädisor",
+          "quantity": 125,
+          "unit": "g",
+          "text": "125 g rädisor"
+        },
+        {
+          "ingredient": "rättikor",
+          "quantity": 150,
+          "unit": "g",
+          "text": "ca 150 g rättikor"
+        },
+        {
+          "ingredient": "morötter",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 morötter"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1.5,
+          "unit": "msk",
+          "text": "1 1/2 msk olja"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 ägg"
+        }
+      ]
+    },
+    {
+      "name": "Limedressing",
+      "ingredients": [
+        {
+          "ingredient": "lime",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 lime"
+        },
+        {
+          "ingredient": "riven färsk ingefära",
+          "quantity": 0.5,
+          "unit": "msk",
+          "text": "1/2 msk riven färsk ingefära"
+        },
+        {
+          "ingredient": "strösocker",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk strösocker"
+        },
+        {
+          "ingredient": "vitlöksklyfta",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 vitlöksklyfta"
+        },
+        {
+          "ingredient": "sojasås",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk sojasås"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1.5,
+          "unit": "msk",
+          "text": "1 1/2 msk olja"
+        }
+      ]
+    },
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "port risnudlar",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port risnudlar"
+        },
+        {
+          "ingredient": "cashewnötter",
+          "quantity": 70,
+          "unit": "g",
+          "text": "70 g cashewnötter"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        }
+      ]
+    }
+  ]
+}

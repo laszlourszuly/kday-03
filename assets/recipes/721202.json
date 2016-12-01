@@ -1,0 +1,145 @@
+{
+  "id": 721202,
+  "title": "Älgburgare med rökig BBQ-majo, picklad rödlök och stekt skogssvamp",
+  "image": "algburgare-med-rokig-bbq-majo-721202.jpg",
+  "description": "Hamburgare på älgfärs serverad med stekt svamp, picklad rödlök och en rökig majonnäs är en riktig höjdare! Stek burgarna i stekpanna eller grilla ute på grillen – det blir garanterat gott oavsett hur du gör.",
+  "rating": "4",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Älgburgare",
+      "ingredients": [
+        {
+          "ingredient": "grovt malen älgfärs",
+          "quantity": 600,
+          "unit": "g",
+          "text": "600 g grovt malen älgfärs"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen svartpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen svartpeppar"
+        },
+        {
+          "ingredient": "smör till stekning",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör till stekning"
+        }
+      ]
+    },
+    {
+      "name": "Rökig bbq-majo",
+      "ingredients": [
+        {
+          "ingredient": "majonnäs",
+          "quantity": 2,
+          "unit": "dl",
+          "text": "2 dl majonnäs"
+        },
+        {
+          "ingredient": "rökig bbq-sås",
+          "quantity": 4,
+          "unit": "msk",
+          "text": "4 msk rökig bbq-sås"
+        }
+      ]
+    },
+    {
+      "name": "Picklad rödlök",
+      "ingredients": [
+        {
+          "ingredient": "ättika",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk ättika"
+        },
+        {
+          "ingredient": "strösocker",
+          "quantity": 4,
+          "unit": "msk",
+          "text": "4 msk strösocker"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 4,
+          "unit": "msk",
+          "text": "4 msk vatten"
+        },
+        {
+          "ingredient": "rödlök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 rödlök"
+        }
+      ]
+    },
+    {
+      "name": "Skogssvamp",
+      "ingredients": [
+        {
+          "ingredient": "blandad skogssvamp",
+          "quantity": 100,
+          "unit": "g",
+          "text": "100 g blandad skogssvamp"
+        },
+        {
+          "ingredient": "rödlök",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 rödlök"
+        },
+        {
+          "ingredient": "smör",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen svartpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen svartpeppar"
+        }
+      ]
+    },
+    {
+      "name": "Tillbehör",
+      "ingredients": [
+        {
+          "ingredient": "hamburgerbröd",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 hamburgerbröd"
+        },
+        {
+          "ingredient": "blad krispsallad",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 blad krispsallad"
+        },
+        {
+          "ingredient": "saltgurkor (delade i klyftor på längden)",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 saltgurkor (delade i klyftor på längden)"
+        }
+      ]
+    }
+  ]
+}
