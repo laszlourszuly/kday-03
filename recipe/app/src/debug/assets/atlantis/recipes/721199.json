@@ -1,0 +1,200 @@
+{
+  "id": 721199,
+  "title": "Röding med messmörs- och gräslökssås, rotfruktsstomp och inlagd enbärsgurka",
+  "image": "roding-med-messmor-och-graslokssas-721199.jpg",
+  "description": "Helgrillad röding som serveras med en spännande sås gjord på bland annat messmör, grädde, gräslök och persilja. Fantastiskt gott blir det tillsammans med potatis- och morotsstomp och enbärsinlagd gurka.",
+  "rating": "4",
+  "difficulty": "Medel",
+  "time": "Under 60 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Fisk",
+      "ingredients": [
+        {
+          "ingredient": "rödingar",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 rödingar"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen vitpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen vitpeppar"
+        },
+        {
+          "ingredient": "smör till stekning",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör till stekning"
+        },
+        {
+          "ingredient": "lime",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 lime"
+        },
+        {
+          "ingredient": "knippe dill",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 knippe dill"
+        }
+      ]
+    },
+    {
+      "name": "Messmör- och gräslökssås",
+      "ingredients": [
+        {
+          "ingredient": "schalottenlök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 schalottenlök"
+        },
+        {
+          "ingredient": "smör till stekning",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör till stekning"
+        },
+        {
+          "ingredient": "vispgrädde",
+          "quantity": 3,
+          "unit": "dl",
+          "text": "3 dl vispgrädde"
+        },
+        {
+          "ingredient": "fiskbuljong",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl fiskbuljong"
+        },
+        {
+          "ingredient": "messmör",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk messmör"
+        },
+        {
+          "ingredient": "majsstärkelse",
+          "quantity": 1,
+          "unit": "tsk",
+          "text": "1 tsk majsstärkelse"
+        },
+        {
+          "ingredient": "hackad gräslök",
+          "quantity": 3,
+          "unit": "msk",
+          "text": "3 msk hackad gräslök"
+        },
+        {
+          "ingredient": "hackad persilja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk hackad persilja"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen vitpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen vitpeppar"
+        }
+      ]
+    },
+    {
+      "name": "Potatis- och morotsstomp",
+      "ingredients": [
+        {
+          "ingredient": "nykokta, skalade potatisar",
+          "quantity": 6,
+          "unit": null,
+          "text": "6 nykokta, skalade potatisar"
+        },
+        {
+          "ingredient": "nykokta, skalade morötter",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 nykokta, skalade morötter"
+        },
+        {
+          "ingredient": "smör",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk smör"
+        },
+        {
+          "ingredient": "vispgrädde",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk vispgrädde"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen vitpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen vitpeppar"
+        }
+      ]
+    },
+    {
+      "name": "Enbärsinlagd gurka",
+      "ingredients": [
+        {
+          "ingredient": "gurka",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 gurka"
+        },
+        {
+          "ingredient": "ättika",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl ättika"
+        },
+        {
+          "ingredient": "strösocker",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl strösocker"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 1.5,
+          "unit": "dl",
+          "text": "1 1/2 dl vatten"
+        },
+        {
+          "ingredient": "enbär (krossade i en mortel)",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 enbär (krossade i en mortel)"
+        },
+        {
+          "ingredient": "hackad persilja",
+          "quantity": 0.5,
+          "unit": "msk",
+          "text": "1/2 msk hackad persilja"
+        }
+      ]
+    }
+  ]
+}

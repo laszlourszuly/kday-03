@@ -1,0 +1,93 @@
+{
+  "id": 721386,
+  "title": "Järpar i gräddig tomatsås",
+  "image": "jarpar-i-graddig-tomatsas-721386.jpg",
+  "description": "En snabblagad och smarrig middag som kommer att uppskattas av stora och små. De saftiga järparna steks och får sedan puttra i en underbart god italiensk tomatsås tills smakerna gift sig. Basilikan ger rätten extra piff. Servera med nykokt ris, krispig grön romansallad och en god och kall dryck.",
+  "rating": "2",
+  "difficulty": "Medel",
+  "time": "Under 30 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "port ris eller annat gryn",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port ris eller annat gryn"
+        }
+      ]
+    },
+    {
+      "name": "Järpar",
+      "ingredients": [
+        {
+          "ingredient": "ströbröd",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl ströbröd"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 ägg"
+        },
+        {
+          "ingredient": "vatten",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl vatten"
+        },
+        {
+          "ingredient": "blandfärs",
+          "quantity": 500,
+          "unit": "g",
+          "text": "ca 500 g blandfärs"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0.5,
+          "unit": "tsk",
+          "text": "1/2 tsk salt"
+        },
+        {
+          "ingredient": "peppar",
+          "quantity": 1,
+          "unit": "krm",
+          "text": "1 krm peppar"
+        },
+        {
+          "ingredient": "smör eller margarin",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk smör eller margarin"
+        },
+        {
+          "ingredient": "pastasås basilika",
+          "quantity": 390,
+          "unit": "g",
+          "text": "390 g pastasås basilika"
+        },
+        {
+          "ingredient": "matlagningsgrädde",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl matlagningsgrädde"
+        }
+      ]
+    },
+    {
+      "name": "Till servering",
+      "ingredients": [
+        {
+          "ingredient": "romansallad",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 romansallad"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "requests": [
+    {
+      "url": "/recipe/menu",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/selection.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Content-Type": "application/json"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721196",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721196.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721199",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721199.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721202",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721202.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721282",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721282.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721317",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721317.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721347",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721347.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721351",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721351.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721353",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721353.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721354",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721354.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721366",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721366.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721377",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721377.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721378",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721378.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721380",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721380.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721386",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721386.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721434",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721434.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/recipe?id=721435",
+      "method": "GET",
+      "responses": [
+        {
+          "delay": 20,
+          "maxDelay": 1200,
+          "asset": "asset://atlantis/recipes/721435.json",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Expires": "0",
+            "Pragma": "no-cache",
+            "Content-Type": "application/json",
+            "Date": "Mon, 14 Nov 2016 11:29:07 GMT",
+            "Cache-Control": "no-cache, no-store, must-revalidate"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/algburgare-med-rokig-bbq-majo-721202.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/algburgare-med-rokig-bbq-majo-721202.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=algburgare-med-rokig-bbq-majo-721202.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/broccolisoppa-med-fankal-721282.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/broccolisoppa-med-fankal-721282.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=broccolisoppa-med-fankal-721282.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/jarpar-i-graddig-tomatsas-721386.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/jarpar-i-graddig-tomatsas-721386.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=jarpar-i-graddig-tomatsas-721386.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/jarpar-med-graddig-lokragu-721434.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/jarpar-med-graddig-lokragu-721434.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=jarpar-med-graddig-lokragu-721434.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/korv-stroganoff-med-pepparrot-721317.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/korv-stroganoff-med-pepparrot-721317.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=korv-stroganoff-med-pepparrot-721317.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/kryddstekt_lax-med-avokadosalsa-721366.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/kryddstekt_lax-med-avokadosalsa-721366.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=kryddstekt_lax-med-avokadosalsa-721366.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/kycklinglasagne-721347.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/kycklinglasagne-721347.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=kycklinglasagne-721347.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/kycklinglasagne-parmessanost-721380.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/kycklinglasagne-parmessanost-721380.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=kycklinglasagne-parmessanost-721380.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/nudlar-med-krispiga-gronsaker-och-cashewnotter-721.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/nudlar-med-krispiga-gronsaker-och-cashewnotter-721.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=nudlar-med-krispiga-gronsaker-och-cashewnotter-721.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/okonomiyaki-osaka-style-721354.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/okonomiyaki-osaka-style-721354.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=okonomiyaki-osaka-style-721354.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/ost-och-skinkpaj-med-aprikoser-721377.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/ost-och-skinkpaj-med-aprikoser-721377.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=ost-och-skinkpaj-med-aprikoser-721377.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/renskav-med-kantareller-potatisrosti-och-lingon-72.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/renskav-med-kantareller-potatisrosti-och-lingon-72.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=renskav-med-kantareller-potatisrosti-och-lingon-72.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/roding-med-messmor-och-graslokssas-721199.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/roding-med-messmor-och-graslokssas-721199.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=roding-med-messmor-och-graslokssas-721199.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/spicy-garlic-ramen-721351.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/spicy-garlic-ramen-721351.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=spicy-garlic-ramen-721351.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/vegoplattar-med-riven-birgerjarl-721378.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/vegoplattar-med-riven-birgerjarl-721378.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=vegoplattar-med-riven-birgerjarl-721378.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    },
+    {
+      "url": "/images/vietnamese-egg-salad-721353.jpg",
+      "method": "GET",
+      "responses": [
+        {
+          "maxDelay": 200,
+          "asset": "asset://atlantis/images/vietnamese-egg-salad-721353.jpg",
+          "responseCode": {
+            "code": 200,
+            "name": "OK"
+          },
+          "headers": {
+            "Cache-Control": "public, max-age=1296000",
+            "Content-Disposition": "inline; filename=vietnamese-egg-salad-721353.jpg",
+            "Content-Type": "image/jpeg",
+            "Expires": "0"
+          }
+        }
+      ]
+    }
+  ]
+}

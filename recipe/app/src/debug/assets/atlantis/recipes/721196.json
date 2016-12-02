@@ -1,0 +1,145 @@
+{
+  "id": 721196,
+  "title": "Renskav med kantareller, potatisrösti och rårörda lingon",
+  "image": "renskav-med-kantareller-potatisrosti-och-lingon.jpg",
+  "description": "En härlig höstmåltid där renskav får sällskap av läcker potatisrösti och gyllengula kantareller. Servera tillsammans med rårörda lingon, timjan, shisokrasse och en välbalanserad alkoholfri öl.",
+  "rating": "3",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Renskav",
+      "ingredients": [
+        {
+          "ingredient": "renskav",
+          "quantity": 500,
+          "unit": "g",
+          "text": "500 g renskav"
+        },
+        {
+          "ingredient": "smör till stekning",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör till stekning"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen svartpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen svartpeppar"
+        }
+      ]
+    },
+    {
+      "name": "Kantareller",
+      "ingredients": [
+        {
+          "ingredient": "kantareller",
+          "quantity": 300,
+          "unit": "g",
+          "text": "300 g kantareller"
+        },
+        {
+          "ingredient": "gul lök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 gul lök"
+        },
+        {
+          "ingredient": "smör",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk smör"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen svartpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen svartpeppar"
+        }
+      ]
+    },
+    {
+      "name": "Potatisrösti",
+      "ingredients": [
+        {
+          "ingredient": "mjöliga potatisar",
+          "quantity": 8,
+          "unit": null,
+          "text": "8 mjöliga potatisar"
+        },
+        {
+          "ingredient": "salt",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt"
+        },
+        {
+          "ingredient": "malen svartpeppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "malen svartpeppar"
+        },
+        {
+          "ingredient": "smör till stekning",
+          "quantity": 0,
+          "unit": null,
+          "text": "smör till stekning"
+        }
+      ]
+    },
+    {
+      "name": "Rårörda lingon",
+      "ingredients": [
+        {
+          "ingredient": "lingon",
+          "quantity": 4,
+          "unit": "dl",
+          "text": "4 dl lingon"
+        },
+        {
+          "ingredient": "strösocker",
+          "quantity": 0.5,
+          "unit": "dl",
+          "text": "1/2 dl strösocker"
+        }
+      ]
+    },
+    {
+      "name": "Till garnering",
+      "ingredients": [
+        {
+          "ingredient": "shisokrasse (japansk krasse) eller vanlig krasse (t ex vattenkrasse, smörgåskrasse eller solrosskott)",
+          "quantity": 0,
+          "unit": null,
+          "text": "shisokrasse (japansk krasse) eller vanlig krasse (t ex vattenkrasse, smörgåskrasse eller solrosskott)"
+        },
+        {
+          "ingredient": "daikon (japansk rättika) eller vanlig rättika",
+          "quantity": 0,
+          "unit": null,
+          "text": "daikon (japansk rättika) eller vanlig rättika"
+        },
+        {
+          "ingredient": "timjan",
+          "quantity": 0,
+          "unit": null,
+          "text": "timjan"
+        }
+      ]
+    }
+  ]
+}

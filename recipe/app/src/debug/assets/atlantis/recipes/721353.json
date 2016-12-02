@@ -1,0 +1,133 @@
+{
+  "id": 721353,
+  "title": "Vietnamese egg salad",
+  "image": "vietnamese-egg-salad-721353.jpg",
+  "description": "En vietnamesisk äggsallad där smaker och texturer kompletterar varandra perfekt. Krispig morot, rättika, pak choi, böngroddar, stekt ägg och den kryddiga fläskfärsen serveras på en bädd av ris. Alla dessa godsaker får en extra kick tack vare den syrliga och friska dressingen.",
+  "rating": "3.5",
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": "Grönsaker",
+      "ingredients": [
+        {
+          "ingredient": "morötter",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 morötter"
+        },
+        {
+          "ingredient": "rättikor",
+          "quantity": 300,
+          "unit": "g",
+          "text": "300 g rättikor"
+        },
+        {
+          "ingredient": "pak choi",
+          "quantity": 250,
+          "unit": "g",
+          "text": "250 g pak choi"
+        },
+        {
+          "ingredient": "ask böngroddar (à 180 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 ask böngroddar (à 180 g)"
+        }
+      ]
+    },
+    {
+      "name": "Ris",
+      "ingredients": [
+        {
+          "ingredient": "port ris",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port ris"
+        }
+      ]
+    },
+    {
+      "name": "Dressing",
+      "ingredients": [
+        {
+          "ingredient": "lime",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 lime"
+        },
+        {
+          "ingredient": "fisksås",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk fisksås"
+        },
+        {
+          "ingredient": "strösocker",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk strösocker"
+        },
+        {
+          "ingredient": "vitlöksklyftor",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 vitlöksklyftor"
+        },
+        {
+          "ingredient": "riven ingefära",
+          "quantity": 2,
+          "unit": "msk",
+          "text": "2 msk riven ingefära"
+        },
+        {
+          "ingredient": "röd chili",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 röd chili"
+        }
+      ]
+    },
+    {
+      "name": "Färs",
+      "ingredients": [
+        {
+          "ingredient": "fläskfärs",
+          "quantity": 480,
+          "unit": "g",
+          "text": "ca 480 g fläskfärs"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olja"
+        },
+        {
+          "ingredient": "salt och peppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt och peppar"
+        },
+        {
+          "ingredient": "ägg",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 ägg"
+        }
+      ]
+    },
+    {
+      "name": "Till servering",
+      "ingredients": [
+        {
+          "ingredient": "kruka mynta",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 kruka mynta"
+        }
+      ]
+    }
+  ]
+}

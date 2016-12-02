@@ -1,0 +1,83 @@
+{
+  "id": 721317,
+  "title": "Korv Stroganoff med pepparrot",
+  "image": "korv-stroganoff-med-pepparrot-721317.jpg",
+  "description": "Vem kan motstå en mustig korv stroganoff? En perfekt vardagsrätt som är god, snabblagad och mättande. Denna stroganoff är gjord på en underbart god kycklingkorv, pepparrot, persilja och grädde och serveras med fluffigt ris och en krispig medelhavssallad. Smaklig måltid!",
+  "rating": "3.6",
+  "difficulty": "Medel",
+  "time": "Under 30 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "port ris",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 port ris"
+        },
+        {
+          "ingredient": "kycklingstekkorv",
+          "quantity": 500,
+          "unit": "g",
+          "text": "500 g kycklingstekkorv"
+        },
+        {
+          "ingredient": "gul lök",
+          "quantity": 1,
+          "unit": null,
+          "text": "1 gul lök"
+        },
+        {
+          "ingredient": "olja",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olja"
+        },
+        {
+          "ingredient": "tomatpuré",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk tomatpuré"
+        },
+        {
+          "ingredient": "tomatsås (gärna basilika)",
+          "quantity": 390,
+          "unit": "g",
+          "text": "390 g tomatsås (gärna basilika)"
+        },
+        {
+          "ingredient": "vispgrädde",
+          "quantity": 1,
+          "unit": "dl",
+          "text": "1 dl vispgrädde"
+        },
+        {
+          "ingredient": "salt och peppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt och peppar"
+        },
+        {
+          "ingredient": "riven färsk pepparrot",
+          "quantity": 3,
+          "unit": "msk",
+          "text": "3 msk riven färsk pepparrot"
+        },
+        {
+          "ingredient": "kruka persilja",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 kruka persilja"
+        },
+        {
+          "ingredient": "påse medelhavsmix (à 125 g)",
+          "quantity": 0.5,
+          "unit": null,
+          "text": "1/2 påse medelhavsmix (à 125 g)"
+        }
+      ]
+    }
+  ]
+}

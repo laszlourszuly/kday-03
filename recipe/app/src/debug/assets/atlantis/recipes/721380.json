@@ -1,0 +1,88 @@
+{
+  "id": 721380,
+  "title": "Kycklinglasagne med parmesanost",
+  "image": "kycklinglasagne-parmessanost-721380.jpg",
+  "description": "En god och lättlagad kycklinglasagne som tillagas med kycklingfärs, vinsås och goda ostar. Varva stekt kyckling, stekta morötter och prästost med vinsåsen och toppa anrättningen med riven parmesanost.",
+  "rating": null,
+  "difficulty": "Medel",
+  "time": "Under 45 minuter",
+  "portions": 4,
+  "paragraphs": [
+    {
+      "name": null,
+      "ingredients": [
+        {
+          "ingredient": "kycklingfiléer",
+          "quantity": 400,
+          "unit": "g",
+          "text": "400 g kycklingfiléer"
+        },
+        {
+          "ingredient": "olivolja (+ extra till formen)",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk olivolja (+ extra till formen)"
+        },
+        {
+          "ingredient": "morötter",
+          "quantity": 4,
+          "unit": null,
+          "text": "4 morötter"
+        },
+        {
+          "ingredient": "dragon",
+          "quantity": 2,
+          "unit": "tsk",
+          "text": "2 tsk dragon"
+        },
+        {
+          "ingredient": "salt och peppar",
+          "quantity": 0,
+          "unit": null,
+          "text": "salt och peppar"
+        },
+        {
+          "ingredient": "extralagrad prästost (gärna 1878 extra stark)",
+          "quantity": 3,
+          "unit": "dl",
+          "text": "3 dl extralagrad prästost (gärna 1878 extra stark)"
+        },
+        {
+          "ingredient": "paket färska lasagneplattor (à 250 g)",
+          "quantity": 2,
+          "unit": null,
+          "text": "2 paket färska lasagneplattor (à 250 g)"
+        },
+        {
+          "ingredient": "parmesanost",
+          "quantity": 2,
+          "unit": "dl",
+          "text": "2 dl parmesanost"
+        }
+      ]
+    },
+    {
+      "name": "Sås",
+      "ingredients": [
+        {
+          "ingredient": "crème fraiche",
+          "quantity": 3,
+          "unit": "dl",
+          "text": "3 dl crème fraiche"
+        },
+        {
+          "ingredient": "torrt vitt vin",
+          "quantity": 2,
+          "unit": "dl",
+          "text": "2 dl torrt vitt vin"
+        },
+        {
+          "ingredient": "dijonsenap",
+          "quantity": 1,
+          "unit": "msk",
+          "text": "1 msk dijonsenap"
+        }
+      ]
+    }
+  ]
+}
