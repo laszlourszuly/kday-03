@@ -1,6 +1,6 @@
 # KDAY03 - Mocking The Internet
 
-This lab will explore how to gain control over the network requests and responses to and from your Android app, without rewriting the app itself.
+This lab will explore how to gain control over the network requests and responses to and from your Android app, without rewriting the app itself. We will be using the [Atlantis](https://github.com/echsylon/atlantis) library for this.
 
 ## *EXERCISE 1:* Mimic the not-yet-existing backend API.
 
@@ -24,7 +24,7 @@ This exercise will address how to test the network behavior of your app. How do 
 
 2. Make sure your app targets a real (working) API. [`http://echo.jsontest.com`](http://echo.jsontest.com) may reach out a helping hand in this endeavor.
 
-3. Use Atlantis and the Java API for testing the behavior of your app for different network responses. You can configure Atlantis to deliver a wide range of HTTP responses. You can even delay a response by a certain amount of time.
+3. Use Atlantis and the [Java API](https://github.com/echsylon/atlantis/wiki) for testing the behavior of your app for different network responses. You can configure Atlantis to deliver a wide range of HTTP responses. You can even delay a response by a certain amount of time.
 
 4. Still using Atlantis, verify that your app makes the network requests it's supposed to make and in the correct order. Verify that it aborts when an error response is returned.
 
