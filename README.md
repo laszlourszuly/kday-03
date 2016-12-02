@@ -1,6 +1,6 @@
 # KDAY03 - Mocking The Internet
 
-This lab will explore how to gain control over the network requests and responses to and from your Android app, without rewriting the app itself. We will be using the [Atlantis](https://github.com/echsylon/atlantis) library for this. The [wiki](https://github.com/echsylon/atlantis/wiki) describes a very simple usage and there is even more technical documentation on the [JSON API](https://github.com/echsylon/atlantis/wiki/JSON-Configuration-File) as well as the [Java API](https://echsylon.github.io/atlantis/index.html).
+This lab will explore how to gain control over the network requests and responses to and from your Android app without rewriting the app itself. We will be using the [Atlantis](https://github.com/echsylon/atlantis) library for this. The [wiki](https://github.com/echsylon/atlantis/wiki) describes a very simple usage and there is even more technical documentation on the [JSON API](https://github.com/echsylon/atlantis/wiki/JSON-Configuration-File) as well as the [Java API](https://echsylon.github.io/atlantis/index.html).
 
 ## *EXERCISE 1:* Mimic the not-yet-existing backend API.
 
@@ -22,9 +22,9 @@ This exercise will address how to test the network behavior of your app. How do 
 
 1. Take the network layer from the previous exercise (or any other app you may have laying around), you can also write a small custom app using Google Volley or similar for this purpose if you don't have a working candidate.
 
-2. Make sure your app targets a real (working) API. [`http://echo.jsontest.com`](http://echo.jsontest.com) may reach out a helping hand in this endeavor.
+2. Make sure your app targets a real (working) API, [`http://echo.jsontest.com`](http://echo.jsontest.com) may be of help here, and make sure you have "closed the loop", i.e. that you can make a request to this real server of yours and consume the response properly.
 
-3. Use Atlantis and the [Java API](https://github.com/echsylon/atlantis/wiki) for testing the behavior of your app for different network responses. You can configure Atlantis to deliver a wide range of HTTP responses. You can even delay a response by a certain amount of time.
+3. Now use Atlantis and the Java API (see the Atlantis wiki for an example) and write some unit tests that verifies the behavior of your app for different network responses. You can configure Atlantis to deliver a wide range of HTTP responses. You can even delay a response by a certain amount of time (testing timeout behavior).
 
 4. Still using Atlantis, verify that your app makes the network requests it's supposed to make and in the correct order. Verify that it aborts when an error response is returned.
 
