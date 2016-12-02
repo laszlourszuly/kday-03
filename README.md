@@ -1,6 +1,6 @@
 # KDAY03 - Mocking The Internet
 
-This lab will explore how to gain control over the network requests and responses to and from your Android app, without rewriting the app itself. We will be using the [Atlantis](https://github.com/echsylon/atlantis) library for this.
+This lab will explore how to gain control over the network requests and responses to and from your Android app, without rewriting the app itself. We will be using the [Atlantis](https://github.com/echsylon/atlantis) library for this. The [wiki](https://github.com/echsylon/atlantis/wiki) describes a very simple usage and there is even more technical documentation on the [JSON API](https://github.com/echsylon/atlantis/wiki/JSON-Configuration-File) as well as the [Java API](https://echsylon.github.io/atlantis/index.html).
 
 ## *EXERCISE 1:* Mimic the not-yet-existing backend API.
 
