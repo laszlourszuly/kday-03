@@ -10,11 +10,10 @@ import android.widget.TextView;
 import com.squareup.picasso.Picasso;
 import com.squareup.picasso.Target;
 
-/**
- * Created by laszlo on 2016-12-02.
- */
-
 public class SummaryPaletteTarget implements Target {
+    private static final int DEFAULT_TITLE_COLOR = Color.argb(128, 255, 255, 255);
+    private static final int DEFAULT_BODY_COLOR = Color.argb(96, 255, 255, 255);
+
     private final ImageView imageView;
     private final TextView titleView;
     private final TextView excerptView;
@@ -28,15 +27,15 @@ public class SummaryPaletteTarget implements Target {
     @Override
     public void onBitmapLoaded(Bitmap bitmap, Picasso.LoadedFrom from) {
         Palette palette = Palette.from(bitmap).generate();
-        Palette.Swatch swatch = palette.getLightVibrantSwatch();
+        Palette.Swatch swatch = palette.getDarkMutedSwatch();
 
         imageView.setImageBitmap(bitmap);
         titleView.setTextColor(swatch != null ?
                 swatch.getTitleTextColor() :
-                Color.BLACK);
+                DEFAULT_TITLE_COLOR);
         excerptView.setTextColor(swatch != null ?
                 swatch.getBodyTextColor() :
-                Color.DKGRAY);
+                DEFAULT_BODY_COLOR);
     }
 
     @Override
