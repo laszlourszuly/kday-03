@@ -38,9 +38,9 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getRecipes() {
-        progressDialog = ProgressDialog.show(this, "Loading recipes", null, true, false);
+        progressDialog = ProgressDialog.show(this, null, "Loading recipes", true, false);
         Recipe.getRecipes()
-                .withFinishListener(() -> progressDialog.hide())
+                .withFinishListener(() -> progressDialog.dismiss())
                 .withSuccessListener(data -> adapter.setContent(data))
                 .withErrorListener(cause -> Snackbar.make(coordinatorLayout, "Couldn't load recipes", Snackbar.LENGTH_INDEFINITE)
                         .setAction("RETRY", view -> getRecipes())
