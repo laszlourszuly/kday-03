@@ -1,12 +1,15 @@
 package com.echsylon.recipe;
 
+import android.content.Context;
+import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.echsylon.recipe.common.BlurTransformation;
+import com.echsylon.recipe.common.ColorFilterTransformation;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
@@ -21,23 +24,23 @@ public class RecipeListAdapter extends RecyclerView.Adapter<RecipeListAdapter.Vi
     public static class ViewHolder extends RecyclerView.ViewHolder {
         private final TextView title;
         private final TextView excerpt;
-        private final ImageView picture;
 
         private ViewHolder(View itemView) {
             super(itemView);
             title = (TextView) itemView.findViewById(R.id.title);
             excerpt = (TextView) itemView.findViewById(R.id.excerpt);
-            picture = (ImageView) itemView.findViewById(R.id.picture);
         }
 
         private void bind(Recipe.Summary data) {
             title.setText(data.name);
             excerpt.setText(data.excerpt);
-            Picasso.with(picture.getContext())
-                    .load(String.format("%s/images/%s",
-                            BuildConfig.BASE_URL,
-                            data.image))
-                    .into(new SummaryPaletteTarget(picture, title, excerpt));
+
+            Context context = title.getContext();
+            Picasso.with(context)
+                    .load(String.format("%s/images/%s", BuildConfig.BASE_URL, data.image))
+                    .transform(new ColorFilterTransformation(Color.argb(128, 0, 0, 0)))
+                    .transform(new BlurTransformation(context, 4f))
+                    .into(new SummaryBackgroundTarget(itemView));
         }
     }
 
