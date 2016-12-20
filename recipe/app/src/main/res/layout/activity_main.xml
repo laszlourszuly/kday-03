@@ -5,7 +5,7 @@
     android:id="@+id/coordinator_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryLight"
+    android:background="@color/primaryLight"
     tools:context="com.echsylon.recipe.MainActivity">
 
     <android.support.v7.widget.RecyclerView
